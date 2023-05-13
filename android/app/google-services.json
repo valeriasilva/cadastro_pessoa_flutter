@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "261488020347",
+    "project_id": "crudpessoa-6ab5d",
+    "storage_bucket": "crudpessoa-6ab5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261488020347:android:12debd6e970e881fa54bde",
+        "android_client_info": {
+          "package_name": "com.example.crud_pessoa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261488020347-5b8ov2mdcehhfnqkkm8vubnuh6u4godk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJHApn0FWX_K9KmRdVO4KITe9MqvcQflU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261488020347-5b8ov2mdcehhfnqkkm8vubnuh6u4godk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "261488020347-df6d1bhedffen12kfsno16cgbbpi5r67.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.crudPessoa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
